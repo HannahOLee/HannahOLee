@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @HannahOLee
-- 👀 I’m interested in Machine Learning and Python
-- 🌱 I’m currently learning how to use python to solve problems with machine learning algorithms
-- 📫 let me know if any problems: 1072322978@qq.com
+
